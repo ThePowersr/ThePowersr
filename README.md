@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="500" src="https://aleduran.com/wp-content/uploads/Javascript.gif"  />
+  <img height="400" src="https://aleduran.com/wp-content/uploads/Javascript.gif"  />
 </div>
 
 ###
